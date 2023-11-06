@@ -6,3 +6,4 @@ export const handler : APIGatewayProxyHandlerV2  = async function (event: any) {
 		body: 'You received a super secret!!',
 	};
 };
+
